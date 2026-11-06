@@ -1,0 +1,4 @@
+interface:
+  display_name: "YYDS GPT Image"
+  short_description: "Generate or edit with the YYDS GPT Image API"
+  default_prompt: "Use the YYDS GPT Image API to generate or edit an image."
